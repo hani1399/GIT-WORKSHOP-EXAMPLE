@@ -1,0 +1,8 @@
+hello git
+things we did:
+git init
+git romote add origin https://github.com/hani1399/GIT-WORKSHOP-EXAMPLE.git
+git status
+git add example
+git commit -m "massage"
+git push origin main
